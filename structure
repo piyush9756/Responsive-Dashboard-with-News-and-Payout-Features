@@ -1,0 +1,32 @@
+news-payout-dashboard
+├── .env
+├── next.config.js
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── public
+│   └── favicon.ico
+├── store
+│   └── store.js
+├── features
+│   └── newsSlice.js
+├── utils
+│   ├── fetchNews.js
+│   └── exportUtils.js
+├── components
+│   ├── Layout.js
+│   ├── Header.js
+│   ├── Footer.js
+│   ├── DashboardCards.js
+│   ├── ChartComponent.js
+│   └── PayoutTable.js
+├── styles
+│   └── globals.css
+└── pages
+    ├── api
+    │   └── auth
+    │       └── [...nextauth].js
+    ├── _app.js
+    ├── index.js
+    ├── dashboard.js
+    └── payout.js
