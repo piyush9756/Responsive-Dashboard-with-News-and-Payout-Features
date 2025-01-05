@@ -1,3 +1,3 @@
-Technical Assessment Frontend Developer - Sportsdunia NIT Patna
+MCA student at Graphic Era university ,Dehradun
 
-Name - Abhishek Kumar
+Name - Piyush kumar
